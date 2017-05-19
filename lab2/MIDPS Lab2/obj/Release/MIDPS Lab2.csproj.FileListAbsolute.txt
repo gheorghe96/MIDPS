@@ -1,0 +1,8 @@
+D:\Univer\Anul 2\Semestrul 2\MIDPS\Lab 2\MIDPS Lab2\MIDPS Lab2\bin\Release\MIDPS Lab2.exe.config
+D:\Univer\Anul 2\Semestrul 2\MIDPS\Lab 2\MIDPS Lab2\MIDPS Lab2\bin\Release\MIDPS Lab2.exe
+D:\Univer\Anul 2\Semestrul 2\MIDPS\Lab 2\MIDPS Lab2\MIDPS Lab2\bin\Release\MIDPS Lab2.pdb
+D:\Univer\Anul 2\Semestrul 2\MIDPS\Lab 2\MIDPS Lab2\MIDPS Lab2\obj\Release\MIDPS_Lab2.Form1.resources
+D:\Univer\Anul 2\Semestrul 2\MIDPS\Lab 2\MIDPS Lab2\MIDPS Lab2\obj\Release\MIDPS_Lab2.Properties.Resources.resources
+D:\Univer\Anul 2\Semestrul 2\MIDPS\Lab 2\MIDPS Lab2\MIDPS Lab2\obj\Release\MIDPS Lab2.csproj.GenerateResource.Cache
+D:\Univer\Anul 2\Semestrul 2\MIDPS\Lab 2\MIDPS Lab2\MIDPS Lab2\obj\Release\MIDPS Lab2.exe
+D:\Univer\Anul 2\Semestrul 2\MIDPS\Lab 2\MIDPS Lab2\MIDPS Lab2\obj\Release\MIDPS Lab2.pdb
