@@ -16,7 +16,7 @@ Steps taken:
 ### Initializing git on local machine
 
 ```sh
-$ git clone https://github.com/d3face/midps.git
+$ git clone https://github.com/gheorghe96/MIDPS
 ```
 
 ```
