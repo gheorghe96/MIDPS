@@ -11,7 +11,7 @@ Steps taken:
 * [Creating tags](#creating-tags)
 
 ### Create repository on github
-![Creating web repository on github](/lab1/screen/creating-repository-on-github.png?raw=true)
+![Creating web repository on github]
 
 ### Initializing git on local machine
 
@@ -26,7 +26,7 @@ remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 Unpacking objects: 100% (3/3), done.
 ```
 ### Adding .gitignore
-![Creating commit to add .gitignore](/lab1/screen/added-gitignore.png?raw=true)
+![Creating commit to add .gitignore]
 
 ```sh
 $ echo '' > .gitignore
@@ -43,7 +43,7 @@ Switched to a new branch '0.2-dev'
 ```
 
 ### Merging branches
-![Merging branches](/lab1/screen/merging-branches.png?raw=true)
+![Merging branches]
 
 ```sh
 $ git merge master
@@ -55,7 +55,7 @@ Fast-forward
 ```
 
 ### Conflict solving
-![Conflict solving](/lab1/screen/conflict-solving.png?raw=true)
+![Conflict solving]
 
 ```sh
 $ git merge master
@@ -70,7 +70,7 @@ $ git add .
 ```
 
 ### Creating tags
-![Creating tags](/lab1/screen/creating-tags.png?raw=true)
+![Creating tags]
 
 ```sh
 git tag 0.1-dev
