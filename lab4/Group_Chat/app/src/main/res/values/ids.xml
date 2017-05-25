@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="activity_main" type="id" />
-    <item name="textmassage" type="id" />
-    <item name="autormessage" type="id" />
-    <item name="timemessage" type="id" />
-    <item name="menu" type="id" />
-</resources>
