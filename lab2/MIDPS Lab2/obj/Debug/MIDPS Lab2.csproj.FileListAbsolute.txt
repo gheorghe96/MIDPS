@@ -7,3 +7,6 @@ D:\Univer\Anul 2\Semestrul 2\MIDPS\Lab 2\MIDPS Lab2\MIDPS Lab2\obj\Debug\MIDPS_L
 D:\Univer\Anul 2\Semestrul 2\MIDPS\Lab 2\MIDPS Lab2\MIDPS Lab2\obj\Debug\MIDPS Lab2.csproj.GenerateResource.Cache
 D:\Univer\Anul 2\Semestrul 2\MIDPS\Lab 2\MIDPS Lab2\MIDPS Lab2\obj\Debug\MIDPS Lab2.exe
 D:\Univer\Anul 2\Semestrul 2\MIDPS\Lab 2\MIDPS Lab2\MIDPS Lab2\obj\Debug\MIDPS Lab2.pdb
+D:\github\MIDPS\lab2\MIDPS Lab2\bin\Debug\MIDPS Lab2.exe.config
+D:\github\MIDPS\lab2\MIDPS Lab2\obj\Debug\MIDPS Lab2.exe
+D:\github\MIDPS\lab2\MIDPS Lab2\obj\Debug\MIDPS Lab2.pdb
